@@ -1,2 +1,2 @@
 I am Rishabhkumar Bhupatbhai Kalathiya (C0940001).
-This is the very first file of this repository as a part of the assignment for week 04 of the python programming.
+This is the very first file of this repository as a part of the 3rd assignment of python programming.

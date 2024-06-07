@@ -1,2 +1,2 @@
-# fsdo-python-w04
-This is a repository for week 4 assignment of python programming in FSDO program
+# fsdo-python-w03
+This is a repository for assignment 03 of python programming in FSDO program
